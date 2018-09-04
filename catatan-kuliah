@@ -1,0 +1,22 @@
+IP Address
+- secara unik dan logik mengidentifikasi end devices
+- Paket diteruskan berdasarkan IP Address
+- Representasi dari bilangan biner
+- Subnetting hadir karena IPv4 terbatas, tidak seperti IPv6 sangat luas, tinggal kasih
+- IPv4 32 bit = 4 oktet, dibagi 8 bit
+- IPv6 128 bit
+- Representasi IP buat manusia = Decimal
+- Representasi IP buat komputer = Biner
+- Ada 5 kelas IP Address IPv4, umum digunakan 3
+  - A, B, C -> Jumlah yang dapat digunakan
+- Pengalamatan IP Address
+  - IP Network -> Menandakan alamat jaringan
+  - IP Host -> Menandakan alamat end device
+- Ruangan D5 dan D4 memiliki jaringan yang berbeda, IP Network menandakan alamat jaringan pertama untuk tiap jaringan di ruangan tsb.
+- IP Broadcast merupakan alamat IP terakhir suatu jaringan, sebagai pem-broadcast pesan
+- IP Network dan IP Broadcast tidak boleh digunakan, hanya IP Host yang boleh dipakai oleh end device
+- Menghubungkan jaringan yang berbeda kita gunakan ROUTER
+- IP Public IP yang tidak ada yang sama di seluruh dunia yang terkoneksi secara langsung ke jaringan global
+- IP Private bisa dipakai di jaringan lokal meskipun sama, tidak terkoneksi langsung ke jaringan global
+- Subnet mask penentu porsi Network ID dan Host ID
+- 192.168.1.0/24 -> /24 disebut PREFIX / menyingkat SUBNET MASK
