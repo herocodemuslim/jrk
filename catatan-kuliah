@@ -20,3 +20,9 @@ IP Address
 - IP Private bisa dipakai di jaringan lokal meskipun sama, tidak terkoneksi langsung ke jaringan global
 - Subnet mask penentu porsi Network ID dan Host ID
 - 192.168.1.0/24 -> /24 disebut PREFIX / menyingkat SUBNET MASK
+
+SUBNETTING
+- Untuk membagi jaringan misalnya pada kelas C defaultnya /24 hanya bisa membuat satu buah jaringan 
+- Kita meminjam bit host untuk dijadikan Network portion
+
+
