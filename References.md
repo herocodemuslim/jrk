@@ -11,3 +11,6 @@
 
 ### ROUTING
 - http://jaargh.blogspot.com/2017/08/apa-itu-routing-pengertian-routing.html
+
+- https://www.fathurhoho.id/2017/06/pengenalan-osi-layer-dan-cara-mempelajarinya.html
+- http://mikrotik.co.id/artikel_lihat.php?id=59
